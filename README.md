@@ -1,3 +1,6 @@
+## Suppor Platforms  
+Android 5.0 (21) ~ Android 10 (29)  
+
 ## How to Install ADB
 https://developer.android.com/studio/command-line/adb
 
