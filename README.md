@@ -1,4 +1,4 @@
-## Suppor Platforms  
+## Support Platforms  
 Android 5.0 (21) ~ Android 10 (29)  
 
 ## How to Install ADB
